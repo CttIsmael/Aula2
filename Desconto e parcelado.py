@@ -1,3 +1,5 @@
+#Imprimir valor com desconto por ser à vista e adicionais com valores de 5x e 10x.
+
 def preco():
     preco = int(input())
     avista = preco - ((preco/100) * 9)
