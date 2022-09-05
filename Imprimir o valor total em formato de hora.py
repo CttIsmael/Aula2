@@ -1,3 +1,5 @@
+#Calcular um valor inteiro e converter o total de segundos em formato de horas, minutos e segundos.
+
 def converte(seg):
     hora = seg // 3600
     minutos = (seg % 3600) // 60
