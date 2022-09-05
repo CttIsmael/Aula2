@@ -1,3 +1,5 @@
+#Coletar 5 números e imprimir o maior valor, em seguida do menor valor e a média dos valores dividida por 5.
+
 def calculo():
     n1 = int(input())
     n2 = int(input())
