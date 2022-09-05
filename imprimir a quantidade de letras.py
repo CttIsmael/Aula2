@@ -1,3 +1,5 @@
+#Escrever uma palavra e imprimir a quantidade de letras.
+
 def palavra(c):
     return len(c)
 
